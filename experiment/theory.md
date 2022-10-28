@@ -15,7 +15,7 @@ higher order filter circuits can be designed using them.we can define second ord
 <img style="width:30%;height:30%;text-align:center;width:32%;height:32%;position:relative;top:-200px;left:530px;" src="images/filter-opamp77.gif">
 <br><figcaption style="position:relative;top:-200px;left:530px;font-size:12px;">[Fig 4:Active second order Filter diagram ,Gain,Cutoff Frequency]</figcaption></br>
 A typical circuit diagram of a second order Sallen key low pass filter is shown in Figure3. With R1 = R2 = R and C1 = C2 = C ,the transfer function between the input and the output can be expressed as :</br>
-$$\frac{Vo_(s)}{(V1_(s)}=\frac{K}{[1+(3-K)RCs+(RCs)\sqrt(2)]}$$
+$$\frac{Vo_(s)}{(V1_(s)}=\frac{K}{[1+(3-K)RCs+(RCs)^{2}]}$$
 Where $$K =[1+RF/Ri]$$</br>
 The above expression clearly shown a low pass characteristics of the filter with
 d.c gain = K, cut off frequency F<sub>o</sub>=1/2πRC and the Q-factor, Q = 1/(3-K)
