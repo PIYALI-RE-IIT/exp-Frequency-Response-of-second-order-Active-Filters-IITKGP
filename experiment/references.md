@@ -1,31 +1,23 @@
 ## References
 #### Books
-- 
--
--
+<p>1)Electronic Devices & Circuits by J.B Gupta </p>
+<p>2)Analog Electronic Filters: Theory, Design and Synthesis (Analog Circuits and Signal Processing)by Hercules G. Dimopoulos </p>
 
 
-#### Papers
-- 
-- 
-- 
--  
-
+#### Video Lectures
+<p><a href="https://www.youtube.com/watch?v=LL3U-Gp-qGk" target="_blank">Click here for NPTEL Video Lecture</a></p>
 
 # People
 
-<b>Name of Developer | <b> **Prof. C S Kumar**
+<b>Name of Developer | <b> **Prof. Alok Kanti Deb**
 :--|:--|
 <b> Institute | <b>  **Indian Institute of Technology Kharagpur**
-<b> Email id|     <b>  **kumar@mech.iitkgp.ac.in**
-<b> Department |  **Department of Mechanical Engineering**
-<b>Webpage| <b> [http://facweb.iitkgp.ernet.in/~cskumar/](http://facweb.iitkgp.ernet.in/~cskumar/)
+<b> Email id|     <b>  **alokkanti@ee.iitkgp.ac.in**
+<b> Department |  **Department of Electrical Engineering**
+<b>Webpage| <b> http://www.iitkgp.ac.in/department/EE/faculty/ee-alokkanti
 
-
-## Contributors list
+### Contributors List
 
 SrNo | Name | VLabs Developer or Integration Engineer | Designation | Department| Institute
 :--|:--|:--|:--|:--|:--|
-1 | **Ujjal Dey** | Developer | Junior Research Fellow | Department of Mechanical Engineering | IIT Kharagpur | 
-2 | **Pabitra Kumar Jana** | Integration | Senior Project Officer | Department of Mechanical Engineering | IIT Kharagpur | 
-2 | **Aditya Kameswara Rao Nandula** | Integration | Senior Project Officer | Department of Mechanical Engineering | IIT Kharagpur | 
+1 | **Piyali Chattopadhyay** | Developer & Integration | Research Engineer | Department of Electrical Engineering | IIT Kharagpur | 
