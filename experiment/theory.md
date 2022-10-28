@@ -16,13 +16,13 @@ higher order filter circuits can be designed using them.we can define second ord
 <br><figcaption style="position:relative;top:-200px;left:530px;font-size:12px;">[Fig 4:Active second order Filter diagram ,Gain,Cutoff Frequency]</figcaption></br>
 A typical circuit diagram of a second order Sallen key low pass filter is shown in Figure3. With R1 = R2 = R and C1 = C2 = C ,the transfer function between the input and the output can be expressed as :</br>
 $$\frac{Vo_(s)}{(V1_(s)}=\frac{K}{[1+(3-K)RCs+(RCs)^{2}]}$$
-Where $$K =[1+RF/Ri]$$</br>
+Where $$K =[1+\frac{RF}{Ri}]$$</br>
 The above expression clearly shown a low pass characteristics of the filter with
 d.c gain = K, cut off frequency F<sub>o</sub>=1/2πRC and the Q-factor, Q = 1/(3-K)
 </br>
 Generally, for second order butter worth filter the Q value is 0.707. and gain should be K~1.586.The frequency response of the Butterworth Filter approximation function is also often referred to as “maximally flat” (no ripples) response because the pass band is designed to have a frequency response which is as flat as mathematically possible from 0Hz (DC) until the cut-off frequency at -3dB with no ripples. Higher frequencies beyond the cut-off point rolls-off down to zero in the stop band at -40dB/decade .
 This is because it has a “quality factor”, “Q” of just 0.707</br>The output voltage gain is given by:
-$$| Vo(s)|= (K * Vin)/√(1+f/fc)^4$$							
+$$| Vo(s)|= \frac{K * Vin}{\sqrt(1+f/fc)^{4}}$$							
 <br><img style="width:50%;height:50%;text-align:center;position:relative;top:20px;left:150px;" src="images/freq.jpg">
 <br/><br><br><figcaption style="text-align:center;position:relative;top:-60px;left:50px;font-size:12px;">[Fig 5: Frequency Response of second order Butterworth Filter]</figcaption>
                      </p>					
